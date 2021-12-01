@@ -21,7 +21,8 @@ Skills: Python / Java / Scala /  PHP / Others.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkhan900&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulkhan900&show_icons=true)  
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulkhan900&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulkhan900)  
 
