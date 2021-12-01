@@ -19,7 +19,7 @@ Skills: Python / Java / Scala /  PHP / Others.
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahmudulkhan900)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkhan900)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulkhan900&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulkhan900)  
