@@ -2,9 +2,6 @@
 #### Android Development 
 ![Software Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/260310264_3212964202319349_2525071475848331219_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeG93uxg2I_gu_f6dOci3Lkim4FG612ektGbgUbrXZ6S0YtX9ihTsPybn9rtCY6ipuK0Q--94O9Scrhlar1ZPeCn&_nc_ohc=dfsy-kEG2AQAX90uOUq&tn=9-A7IfNT4F8CIVyI&_nc_ht=scontent.fdac27-1.fna&oh=ab234d66ad55fe74fddc2403ce3948d5&oe=61ABCF12)
 
-I'm a Software Developer who is passionate about making error-free software with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented , and always work with an end goal in mind. Over the past years, I created 25s of  Softwares for my clients. I pride myself on doing qquality work and maintain excellent communication. Most of the time I work with PHP, Java but some techologies I enjoy working with include Python,JavaScript as well as PHP.  
-
-Skills: Python / Java / Scala /  PHP / Others.
 
 Very passionate, responsible, and committed engineer with a get-it-done, on-time spirit, and more than 3 (3) years of experience from academic study in designing, implementing, and adapting technically sophisticated android applications. Supportive and enthusiastic team player. Strong knowledge of  OOP, Firebase, Room, Retrofit, Python. Fluent on Java and practicable at Kotlin.
 
