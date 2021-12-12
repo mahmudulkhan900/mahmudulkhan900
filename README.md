@@ -7,8 +7,11 @@ Very passionate, responsible, and committed engineer with a get-it-done, on-time
 
 CORE SKILLS
 ✔ Knowledge of Android UI design principles, patterns, and best practices.
+
 ✔ Ability to understand business requirements and translate them into technical requirements.
+
 ✔ Turn complex ideas into manageable pieces of work to complete as part of a product team.
+
 ✔ Collaborate with designers, developers, and product owners to build solutions.
 
 
