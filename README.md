@@ -6,13 +6,14 @@
 Very passionate, responsible, and committed engineer with a get-it-done, on-time spirit, and more than 3 (3) years of experience from academic study in designing, implementing, and adapting technically sophisticated android applications. Supportive and enthusiastic team player. Strong knowledge of  OOP, Firebase, Room, Retrofit, Python. Fluent on Java and practicable at Kotlin.
 
 CORE SKILLS
-✔ Knowledge of Android UI design principles, patterns, and best practices.
 
-✔ Ability to understand business requirements and translate them into technical requirements.
+📌 Knowledge of Android UI design principles, patterns, and best practices.
 
-✔ Turn complex ideas into manageable pieces of work to complete as part of a product team.
+📌 Ability to understand business requirements and translate them into technical requirements.
 
-✔ Collaborate with designers, developers, and product owners to build solutions.
+📌 Turn complex ideas into manageable pieces of work to complete as part of a product team.
+
+📌 Collaborate with designers, developers, and product owners to build solutions.
 
 
 
