@@ -17,7 +17,8 @@ CORE SKILLS
 
 
 
-Skills: Android Development 💠 Java 💠 XML 💠 Python 💠  Firebase 💠 Retrofit 💠 SQL 💠 Data Structure 💠 Algorithm 💠  PHP laravel 💠 Design Pattern 💠 Machine Learning(python)
+Skills:
+Android Development 💠 Java 💠 XML 💠 Python 💠  Firebase 💠 Retrofit 💠 SQL 💠 Data Structure 💠 Algorithm 💠  PHP laravel 💠 Design Pattern 💠 Machine Learning(python)
 
 
 - 🔭 I’m currently working on Youtube 
