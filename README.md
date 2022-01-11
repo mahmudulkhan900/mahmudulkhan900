@@ -1,6 +1,6 @@
-<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
+<h1> <img alt="GIF" src="https://github.com/mahmudulkhan900/mahmudulkhan900/blob/main/coder.gif" width=300px height=200px align="right">
 
-<p align="center" >Hello, 👋 I'm Md Mahmmudul Hasan <img src="Gifs/Developer.gif" width=70px></h1>
+<p align="center" >Hello, 👋 I'm Md Mahmmudul Hasan <img src="https://github.com/mahmudulkhan900/mahmudulkhan900/blob/main/Developer.gif" width=70px></h1>
 
 <h3 align="center"><i>A Passionate Developer from Bangladesh</i></h3></br></br>
 
