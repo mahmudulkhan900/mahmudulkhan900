@@ -4,7 +4,7 @@
 
 <h3 align="center"><i>A Passionate Developer from Bangladesh</i></h3></br></br>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/mahmudulkhan900) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=mahmudulkhan900.profileviews-badge)](https://github.com/mahmudulkhan900) [![Followers](https://img.shields.io/github/followers/https://github.com/mahmudulkhan900?style=social)](https://github.com/https://github.com/mahmudulkhan900?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahmudulkhan900) [![Repos Badge](https://badges.pufler.dev/repos/mahmudulkhan900)](https://badges.pufler.dev/repos/mahmudulkhan900) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/niloy-khan-800913192/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/mahmudulkhan900) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=mahmudulkhan900.profileviews-badge)](https://github.com/mahmudulkhan900)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahmudulkhan900) [![Repos Badge](https://badges.pufler.dev/repos/mahmudulkhan900)](https://badges.pufler.dev/repos/mahmudulkhan900) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/niloy-khan-800913192/)
 [![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw)
 <br></br>
 
@@ -36,7 +36,8 @@ Android Development 💠 Java 💠 XML 💠 Python 💠  Firebase 💠 Retrofit 
 
 - <b>🔗 Connect with me :</b>
 <br/>
-<a href="https://www.linkedin.com/in/niloy-khan-800913192/"> <img src="https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/mdmahmudul556"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/mdmahmudul2430/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50px"/> </a>
+<a href="https://www.linkedin.com/in/niloy-khan-800913192/"> <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZpZLUJdZTAaTmSCqy%2BzF1Q%3D%3D" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/mdmahmudul556"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/mdmahmudul2430/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50px"/> </a>
+<br/>
 ## Example of Work
 <img src="https://github.com/mahmudulkhan900/mahmudulkhan900/blob/main/covid19.gif?raw=true" width="256"/>
 
