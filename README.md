@@ -1,7 +1,12 @@
-### Hi there 👋, I'm Md Mahmudul Hasan
-#### Android Development 
-![Software Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/260310264_3212964202319349_2525071475848331219_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeG93uxg2I_gu_f6dOci3Lkim4FG612ektGbgUbrXZ6S0YtX9ihTsPybn9rtCY6ipuK0Q--94O9Scrhlar1ZPeCn&_nc_ohc=dfsy-kEG2AQAX90uOUq&tn=9-A7IfNT4F8CIVyI&_nc_ht=scontent.fdac27-1.fna&oh=ab234d66ad55fe74fddc2403ce3948d5&oe=61ABCF12)
+<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
 
+<p align="center" >Hello, 👋 I'm Md Mahmmudul Hasan <img src="Gifs/Developer.gif" width=70px></h1>
+
+<h3 align="center"><i>A Passionate Developer from Bangladesh</i></h3></br></br>
+
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/mahmudulkhan900) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=mahmudulkhan900.profileviews-badge)](https://github.com/mahmudulkhan900) [![Followers](https://img.shields.io/github/followers/https://github.com/mahmudulkhan900?style=social)](https://github.com/https://github.com/mahmudulkhan900?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahmudulkhan900) [![Repos Badge](https://badges.pufler.dev/repos/mahmudulkhan900)](https://badges.pufler.dev/repos/mahmudulkhan900) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/niloy-khan-800913192/)
+[![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw)
+<br></br>
 
 Very passionate, responsible, and committed engineer with a get-it-done, on-time spirit, and more than 3 (3) years of experience from academic study in designing, implementing, and adapting technically sophisticated android applications. Supportive and enthusiastic team player. Strong knowledge of  OOP, Firebase, Room, Retrofit, Python. Fluent on Java and practicable at Kotlin.
 
@@ -20,15 +25,18 @@ CORE SKILLS
 Skills:
 Android Development 💠 Java 💠 XML 💠 Python 💠  Firebase 💠 Retrofit 💠 SQL 💠 Data Structure 💠 Algorithm 💠  PHP laravel 💠 Design Pattern 💠 Machine Learning(python)
 
+- 🔭 **_I'm in the Final Year of BSC Computer Science Engineering._**</br>
+- 🙋 **_Visit My Portfolio Website **
+- 🎊 **_I'm a Flutter and MERN/FERN Stack Developer_**</br>
+- 🌱 **_I’m Currently Building Some Personal Projects and do Freelancing._**</br>
+- 🥅 **_2022 Goals: Keep it suspend 😏._**</br>
+- ⚡ **_Fun fact: Love to watch Tom and Jerry._** 😂</br>
+- <b>📫 How to reach me :<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarpan2dasgupta@gmail.com"> niloymahmud.bubt@gmail.com</a></b>
+<br/>
 
-- 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Sowftware Developer  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahmudulkhan900)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdmahmudul556)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://codinglife2.rf.gd/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- <b>🔗 Connect with me :</b>
+<br/>
+<a href="https://www.linkedin.com/in/niloy-khan-800913192/"> <img src="https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/mdmahmudul556"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/mdmahmudul2430/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50px"/> </a>
 ## Example of Work
 <img src="https://github.com/mahmudulkhan900/mahmudulkhan900/blob/main/covid19.gif?raw=true" width="256"/>
 
@@ -46,4 +54,36 @@ Android Development 💠 Java 💠 XML 💠 Python 💠  Firebase 💠 Retrofit 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahmudulkhan900)  
 
-![Profile views](https://gpvc.arturio.dev/mahmudulkhan900)  
+</br>
+
+<h3> ⚒️ Tools and Programming Languages:- </h3>
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50px"/>
+<img src="Images_For_README/c++_lang.png?raw=true" width=60px>
+<img src="Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
+<img src="Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
+<img src="Images_For_README/github.png" width=50px>&nbsp&nbsp
+
+<img src="Images_For_README/mysql_logo.png?raw=true" width=80px>
+<img src="Images_For_README/html_logo.png?raw=true" width=50px>
+<img src="Images_For_README/css_logo.png?raw=true" width=50px>
+<img src="Images_For_README/js_logo.png?raw=true" width=45px>
+<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" width="40px"/>
+<img src="Images_For_README/flutter.png?raw=true" width=40px>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" width=50px/>
+
+</p>
+<br/>
+
+<h3>🌱 My Latest Youtube Videos</h3>
+
+- #### [Flutter Social Media Chat App Tutorial Playlist](https://youtube.com/playlist?list=PLn4o1Gy6eg752X6ZaJ7UL55kLJ235laOg)
+
+- #### [Flutter RealTime Chat App](https://youtu.be/QEDhmxzEqUA)
+
+- #### [Flutter E-Commerce App Clone](https://youtu.be/nxZa9D8_wrc)
+
+- #### [AI Ludo Game Made In Python Tkinter](https://youtu.be/5NScX6qgd3Y)
+
+[youtube]: https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw
+[linkedin]: https://www.linkedin.com/in/niloy-khan-800913192/
