@@ -58,32 +58,7 @@ Android Development 💠 Java 💠 XML 💠 Python 💠  Firebase 💠 Retrofit 
 
 </br>
 
-<h3> ⚒️ Tools and Programming Languages:- </h3>
-<p align="left">
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50px"/>
-<img src="Images_For_README/c++_lang.png?raw=true" width=60px>
-<img src="Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
-<img src="Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
-<img src="Images_For_README/github.png" width=50px>&nbsp&nbsp
 
-<img src="Images_For_README/mysql_logo.png?raw=true" width=80px>
-<img src="Images_For_README/html_logo.png?raw=true" width=50px>
-<img src="Images_For_README/css_logo.png?raw=true" width=50px>
-<img src="Images_For_README/js_logo.png?raw=true" width=45px>
-<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" width="40px"/>
-<img src="Images_For_README/flutter.png?raw=true" width=40px>
-<img src="https://img.icons8.com/color/48/000000/firebase.png" width=50px/>
-
-</p>
-<br/>
-
-<h3>🌱 My Latest Youtube Videos</h3>
-
-- #### [Flutter Social Media Chat App Tutorial Playlist](https://youtube.com/playlist?list=PLn4o1Gy6eg752X6ZaJ7UL55kLJ235laOg)
-
-- #### [Flutter RealTime Chat App](https://youtu.be/QEDhmxzEqUA)
-
-- #### [Flutter E-Commerce App Clone](https://youtu.be/nxZa9D8_wrc)
 
 - #### [AI Ludo Game Made In Python Tkinter](https://youtu.be/5NScX6qgd3Y)
 
