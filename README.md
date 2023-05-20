@@ -2,14 +2,25 @@
 
 <p align="center" >Hello, 👋 I'm Md Mahamudul Hasan <img src="https://github.com/mahmudulkhan900/mahmudulkhan900/blob/main/Developer.gif" width=70px></h1>
 
-<h3 align="center"><i>A Passionate Developer from Bangladesh</i></h3></br></br>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/mahmudulkhan900) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=mahmudulkhan900.profileviews-badge)](https://github.com/mahmudulkhan900)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahmudulkhan900) [![Repos Badge](https://badges.pufler.dev/repos/mahmudulkhan900)](https://badges.pufler.dev/repos/mahmudulkhan900) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/niloy-khan-800913192/)
-[![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw)
-<br></br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-mahamudul-hasan-800913192/?fbclid=IwAR1BQjbKoyRtJtyBX6jtbax5-7760mfXNgC6fUPp7P78aMQnD7VJzklXPo8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/mdmahmudul556/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/niloymahmud217/?fbclid=IwAR0RpQCswNhSpS2_9yWl4iR7ncpXlDN2OcZK4-66SwnFWgRbjQuIqhuN0dg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+<br>
+<br>
+<br>
 Very passionate, responsible, and committed engineer with a get-it-done, on-time spirit, and more than 3 (4) years of experience from academic study in designing, implementing, and adapting technically sophisticated android applications. Supportive and enthusiastic team player. Strong knowledge of  OOP,  Python. Fluent on Java and practicable at Kotlin.
-
+<br>
+<br>
 CORE SKILLS
 
 📌 Knowledge of Android UI design principles, patterns, and best practices.
@@ -21,9 +32,21 @@ CORE SKILLS
 📌 Collaborate with designers, developers, and product owners to build solutions.
 
 
-
+<br>
 Skills:
-Android Development 💠 Java 💠 XML 💠 Python 💠 Data Structure  💠 PHP laravel 
+<br>
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="42" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
+<br>
+<br>
 
 - 🔭 **_I'm in the Final Year of BSC Computer Science Engineering._**</br>
 - 🙋 **_Visit My Portfolio Website **
@@ -34,13 +57,6 @@ Android Development 💠 Java 💠 XML 💠 Python 💠 Data Structure  💠 PHP
 - <b>📫 How to reach me :<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarpan2dasgupta@gmail.com"> niloymahmud.bubt@gmail.com</a></b>
 <br/>
 
-- <b>🔗 Connect with me :</b>
-<br/>
-
-<a href="https://www.linkedin.com/in/niloy-khan-800913192/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/mdmahmudul556"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/mdmahmudul2430/"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50px"/> </a>
-<br/>
-## Example of Work
-<img src="https://github.com/mahmudulkhan900/mahmudulkhan900/blob/main/covid19.gif?raw=true" width="256"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahmudulkhan900)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -50,7 +66,6 @@ Android Development 💠 Java 💠 XML 💠 Python 💠 Data Structure  💠 PHP
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulkhan900&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulkhan900)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mahmudulkhan900)  
 
@@ -60,7 +75,4 @@ Android Development 💠 Java 💠 XML 💠 Python 💠 Data Structure  💠 PHP
 
 
 
-- #### [AI Ludo Game Made In Python Tkinter](https://youtu.be/5NScX6qgd3Y)
 
-[youtube]: https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw
-[linkedin]: https://www.linkedin.com/in/niloy-khan-800913192/
