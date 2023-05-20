@@ -8,7 +8,7 @@
 [![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UC6tvxhlug-Gq38kHJ8n1Maw)
 <br></br>
 
-Very passionate, responsible, and committed engineer with a get-it-done, on-time spirit, and more than 3 (3) years of experience from academic study in designing, implementing, and adapting technically sophisticated android applications. Supportive and enthusiastic team player. Strong knowledge of  OOP,  Python. Fluent on Java and practicable at Kotlin.
+Very passionate, responsible, and committed engineer with a get-it-done, on-time spirit, and more than 3 (4) years of experience from academic study in designing, implementing, and adapting technically sophisticated android applications. Supportive and enthusiastic team player. Strong knowledge of  OOP,  Python. Fluent on Java and practicable at Kotlin.
 
 CORE SKILLS
 
