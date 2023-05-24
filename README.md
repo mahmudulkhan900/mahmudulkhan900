@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddik-1997&label=Profile%20views&color=0e75b6&style=flat" alt="siddik-1997" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudulkhan900&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudulkhan900" /> </p>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Md+Mahamudul+Hasan." />
 </h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Trainee+from+ROAD+TO+SDET." alt="Typing SVG" /></a></h3>
@@ -24,15 +24,15 @@
   <table border="0">
     <tr>
       <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddik-1997&show_icons=true&theme=" alt="siddik-1997" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulkhan900&show_icons=true&theme=" alt="mahmudulkhan900" />
       </td>
     </tr>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddik-1997&show_icons=true&theme=" alt="siddik-1997" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudulkhan900&show_icons=true&theme=" alt="mahmudulkhan900" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddik-1997&show_icons=true&theme=" alt="siddik-1997" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulkhan900&show_icons=true&theme=" alt="mahmudulkhan900" />
       </td>
     </tr>
     </table>
